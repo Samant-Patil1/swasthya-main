@@ -46,7 +46,7 @@ swasthya-main/
 ## 1️⃣ Clone the Main Repo (with all submodules)
 
 ```bash
-git clone --recursive https://github.com/swasthya-health1/swasthya-main.git
+git clone --recursive https://github.com/Samant-Patil1/swasthya-main.git
 cd swasthya-main
 ```
 
@@ -332,9 +332,20 @@ Built by **Samant Patil** and the Swasthya community.
 
 ## 🆘 Support
 
-- Open an [Issue](https://github.com/swasthya-health1/swasthya-main/issues)
+- Open an [Issue](https://github.com/Samant-Patil1/swasthya-main/issues)
 - Join our [Discord](https://discord.gg/swasthya) (coming soon)
 - Email: swasthya@health1.org
+
+---
+
+## 🔗 Related Repositories
+
+| Component | Repo | Description |
+|-----------|------|-------------|
+| **Mobile App** | [swasthya-mobile](https://github.com/swasthya-health1/swasthya-mobile) | Flutter app (Android/iOS/Web) |
+| **Admin Panel** | [swasthya-admin](https://github.com/swasthya-health1/swasthya-admin) | React admin dashboard |
+| **ML Service** | [swasthya-ml](https://github.com/swasthya-health1/swasthya-ml) | Python symptom checker |
+| **Docs** | [swasthya-docs](https://github.com/swasthya-health1/swasthya-docs) | Design assets & docs |
 
 ---
 

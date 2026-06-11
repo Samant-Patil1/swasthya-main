@@ -1,0 +1,13 @@
+Task Category,Task Name,Description,Status,Priority,Dependencies,Notes
+LIST 1: API INTEGRATION (Need API Keys),Google Maps API,Real-time doctor finder and nearby hospitals,Not Started,High,None,User offered free Google Maps Platform API
+LIST 1: API INTEGRATION (Need API Keys),Firebase,Auth push notifications analytics,Not Started,High,None,Need Firebase project setup
+LIST 1: API INTEGRATION (Need API Keys),SMS/OTP Service,OTP login via Twilio or MSG91,Not Started,High,None,MSG91 cheaper for India
+LIST 1: API INTEGRATION (Need API Keys),Video Consultation,Agora or Twilio for video calls,Not Started,Medium,None,Only if video consultations needed
+LIST 1: API INTEGRATION (Need API Keys),Cloud Storage,AWS S3 for prescriptions and reports,Not Started,Medium,None,For health records storage
+LIST 1: API INTEGRATION (Need API Keys),Error Tracking,Sentry for crash reporting,Not Started,Low,None,Optional for now
+LIST 2: RESEARCH & RESOURCES (Need Content),Disease Database,500+ diseases with symptoms and mapping,Not Started,High,None,Need medical data source
+LIST 2: RESEARCH & RESOURCES (Need Content),Medicine Database,10000+ medicines with details,Not Started,High,None,DrugBank FDA CDSCO sources
+LIST 2: RESEARCH & RESOURCES (Need Content),First Aid Content,100+ scenarios with video guides,Not Started,Medium,None,Need content creation
+LIST 2: RESEARCH & RESOURCES (Need Content),Health Articles,500+ articles in 12 languages,Not Started,Medium,None,Need translators or content
+LIST 2: RESEARCH & RESOURCES (Need Content),Doctor/Hospital Data,Real doctor profiles and hospital directory,Not Started,High,None,Need partnerships or data source
+LIST 2: RESEARCH & RESOURCES (Need Content),Legal Compliance,DPDP Act 2023 telemedicine guidelines,Not Started,Medium,None,Need legal review
